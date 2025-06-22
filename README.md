@@ -15,16 +15,6 @@
 
 ---
 
-<h3 align="left">🌐 Connect with me</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/vidhuja-prahaladhan" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
-  </a>
-</p>
-
----
-
-
 <h3 align="left">🗣️ Programming Languages</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></a>
@@ -38,14 +28,46 @@
 
 ---
 
-<h3 align="left">🧰 Tools & Technologies</h3>
+<h3 align="left">🛢️ Databases</h3>
 <p align="left">
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
   <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">🚀 Frameworks & Runtimes</h3>
+<p align="left">
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+</p>
+
+---
+<h3 align="left">🧰 Tools & IDEs</h3>
+<p align="left">
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
+  <a href="https://www.apachefriends.org/index.html" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/xampp.svg" alt="XAMPP" width="40" height="40"/></a>
+  <a href="https://netbeans.apache.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Apache_NetBeans_Logo.svg" alt="NetBeans" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/></a>
+</p>
+
+---
+
+<h3 align="left">🔮 Others</h3>
+<p align="left">
+  <a href="https://hadoop.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="Hadoop" width="40" height="40"/></a>
   <a href="https://www.blender.org/" target="_blank"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/></a>
 </p>
+
+---
+
+<h3 align="left">🌐 Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/vidhuja-prahaladhan" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+</p>
+
 
 
 ---
